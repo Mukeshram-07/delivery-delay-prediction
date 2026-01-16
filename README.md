@@ -1,4 +1,5 @@
 # Delivery Delay Prediction
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## Problem Statement
 Predict whether a delivery will miss its promised SLA before dispatch, enabling proactive logistics decisions.
