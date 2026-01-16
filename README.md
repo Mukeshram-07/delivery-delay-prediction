@@ -7,6 +7,12 @@ Predict whether a delivery will miss its promised SLA before dispatch, enabling 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+
+## Live Demo
+
+🚀 Try the deployed app here:  
+[![Streamlit App](https://img.shields.io/badge/Live-Demo-red)](https://delivery-delay-prediction-c4c7sltgvlar7wqboocmgv.streamlit.app/)
+
 ## Dataset
 Synthetic dataset generated to simulate real-world logistics behavior including:
 - Distance
