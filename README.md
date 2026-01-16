@@ -27,6 +27,11 @@ Synthetic dataset generated to simulate real-world logistics behavior including:
 ## Model Artifact
 Trained model saved as: model/delivery_delay_model.pkl
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+
+
 ## How to Run
 1. Open Jupyter Notebook
 2. Navigate to `notebooks/03_model_training.ipynb`
