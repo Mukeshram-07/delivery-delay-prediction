@@ -3,7 +3,11 @@ import pandas as pd
 import joblib
 
 # Load model
-model = joblib.load("../model/delivery_delay_model.pkl")
+import os
+
+
+MODEL_PATH = os.path.join("model", "delivery_delay_model.pkl")
+model = joblib.load(MODEL_PATH)
 
 st.title("Delivery Delay Prediction")
 
